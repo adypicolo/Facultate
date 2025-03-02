@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1718654583 source:c:\users\adria\onedrive\desktop\facultate-pclp2\anul 1\sem 2\lab8\miercuri 14-16\test\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<string.h>
+
